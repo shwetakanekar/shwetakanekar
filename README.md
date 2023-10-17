@@ -8,15 +8,15 @@
 
 :woman_technologist: Full Stack Developer  
 :palm_tree: Goa  
-:mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-shwetakanekar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shweta-kanekar-84285b200)
-
+:mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-shwetakanekar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shweta-kanekar-84285b200)  
+:trophy: Check my work/achievements here [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-black?logo=HackerRank)](https://www.hackerrank.com/profile/shwetakanekar) [![FrontendMentor Badge](https://img.shields.io/badge/-FrontendMentor-black?logo=FrontendMentor&logoColor=white)](https://www.frontendmentor.io/profile/shwetakanekar) [![TreeNation Badge](https://img.shields.io/badge/-TreeNation-black?logo=TreeNation&logoColor=white)](https://tree-nation.com/profile/shweta-kanekar) [![Holopin Badge](https://img.shields.io/badge/-Holopin_Badges-black?logo=Holopin)](https://www.holopin.io/@shwetakanekar#badges)
 
 ## Languages and Tools
 
 <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' width=50 height=50>  <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' width=50 height=50>  <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width=50 height=50>  <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' width=50 height=50>  <img src='https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg' width=50 height=50>  <img src='https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg' width=50 height=50>  <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' width=50 height=50>  <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' width=50 height=50>  <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width=50 height=50>  <img src='https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg' width=50 height=50>  <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg' width=50 height=50>  <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg' width=50 height=50>  <img src='https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg' width=50 height=50>  <img src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg' width=50 height=50>  <img src='https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg' width=50 height=50>  <img src='https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg' width=50 height=50>  <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' width=50 height=50>
 
 
-## Badges
+## Hacktoberfest Badges
 
 [![@shwetakanekar's Holopin board](https://holopin.io/api/user/board?user=shwetakanekar)](https://holopin.io/@shwetakanekar)
 
